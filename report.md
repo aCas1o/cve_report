@@ -12,7 +12,7 @@
 
 ## submitter
 
-- 郑翔，罗熙
+- 郑翔（zhengxiang），罗熙(luoxi)
 
 ## VERSION(S)
 
@@ -106,3 +106,4 @@ Connection: keep-alive
 3. **Minimize database user permissions:** Ensure that the account used to connect to the database has the minimum necessary permissions. Avoid using accounts with advanced permissions (such as' root 'or' admin ') for daily operations.
 
 4. **Regular security audits:** Regularly conduct code and system security audits to promptly identify and fix potential security vulnerabilities.
+
